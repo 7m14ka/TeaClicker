@@ -1,0 +1,10 @@
+E:\clicker\Clicker\Clicker\obj\Debug\Clicker.csproj.AssemblyReference.cache
+E:\clicker\Clicker\Clicker\obj\Debug\Clicker.Form1.resources
+E:\clicker\Clicker\Clicker\obj\Debug\Clicker.csproj.GenerateResource.cache
+E:\clicker\Clicker\Clicker\obj\Debug\Clicker.csproj.CoreCompileInputs.cache
+E:\clicker\clicker\Clicker\bin\Debug\TeaClicker.exe.config
+E:\clicker\clicker\Clicker\bin\Debug\TeaClicker.exe
+E:\clicker\clicker\Clicker\bin\Debug\TeaClicker.pdb
+E:\clicker\clicker\Clicker\obj\Debug\TeaClicker.Properties.Resources.resources
+E:\clicker\clicker\Clicker\obj\Debug\TeaClicker.exe
+E:\clicker\clicker\Clicker\obj\Debug\TeaClicker.pdb
